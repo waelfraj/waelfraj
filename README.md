@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking for alternance
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love videogame
 
 <details>
