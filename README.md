@@ -1,4 +1,4 @@
-### Hi there, I am Wael Fraj, software engineer student 👋
+### Hi there, I am Wael Fraj, software engineering student 👋
 
 ## I'm a Web Developer!!
 
