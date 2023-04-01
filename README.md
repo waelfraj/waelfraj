@@ -1,11 +1,12 @@
-### Hi there, I'm Wael 👋
+### Hi there, I am Wael Fraj, software engineer student 👋
 
 ## I'm a Web Developer!!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking for alternance
+- 👯 I am interested in new technologies
 - 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love videogame
+- 📫 You can join me on my linkedin network: "Wael Fraj", github account: "@waelfraj", or by email "waelfrajj@gmail.com".
 
 <details>
   <summary>:zap: GitHub Stats</summary>
