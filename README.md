@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=waelfraj.waelfraj" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=0000FF&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I%27m+Wael+Fraj!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=87CEFA&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I%27m+Wael+Fraj!;" />
 </h1>
 
 <h3 align="center">A passionate software developer</h3>
@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **TypeScript, React**
 
- 💬 Ask me about **Express.js, Node.js, Firebase, MongoDB... or anything [here](https://github.com/waelfraj/waelfraj/issues)**
+ 💬 Ask me about **React.js, Node.js, Firebase, MongoDB... or anything [here](https://github.com/waelfraj/waelfraj/issues)**
  
  </div>
  
@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-0000FF?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-87CEFA?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
  
@@ -50,7 +50,7 @@
 <hr/>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=0000FF&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=87CEFA&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
 </h3>
 
 <br/>
