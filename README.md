@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=87CEFA&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I%27m+Wael+Fraj!;" />
 </h1>
 
-<h3 align="center">A passionate software developer</h3>
+<h3 align="center">I have no special talent, I am passionately curious </h3>
 
 <br/>
 
