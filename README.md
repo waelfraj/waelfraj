@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I am currently working as a Full Stack Js developer
+ 🔭 I am currently working as a Software Engineering
  
- 🌱 I’m currently learning **TypeScript, React**
+ 🌱 I’m currently learning **Dart, Flutter**
 
  💬 Ask me about **React.js, Node.js, Firebase, MongoDB... or anything [here](https://github.com/waelfraj/waelfraj/issues)**
  
@@ -33,8 +33,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,python,java,html,css,javascript,typescript,php" /><br>
-    <img src="https://skillicons.dev/icons?i=react,angular,nodejs,express,nextjs,nestjs,jquery,firebase,mongodb,mysql,symfony,laravel,bootstrap,tailwind" /><br>
+    <img src="https://skillicons.dev/icons?i=c,python,java,html,css,javascript,typescript,php,dart" /><br>
+    <img src="https://skillicons.dev/icons?i=react,angular,nodejs,express,nextjs,nestjs,jquery,firebase,mongodb,mysql,symfony,laravel,bootstrap,tailwind,flutter" /><br>
     <img src="https://skillicons.dev/icons?i=vscode,github,figma,git,gitlab,ps,ai,postman,xd" /><br>
 </div>
 
